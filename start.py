@@ -27,7 +27,7 @@ now = datetime.datetime.now()
 
 #print("Zu Welchem Zeitpunkt geht der countdown?")
 #houres_in = int(input("Stunden: "))
-minutes_in = int(input("Minute: "))
+#minutes_in = int(input("Minute: "))
 #print("Countdown zur Uhrzeit: ", houres_in, ":", minutes_in)
 #print("Derzeitige Zeit: ", now.hour, now.minute)
 
