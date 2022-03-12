@@ -42,7 +42,7 @@ def draw(timer, over, animation):
         print("Time: ", timer)
         print("ANimation: ", animation)
         if over == True:
-            show_message(device, "Jetzt geh mor Heim und fahren mit dem RB80 ins Erzgebirge und tun dann sachen machen die sachen machen die sachen machen die sachen machen die sachen machen die sachen machen die sachen mache joa", fill="white", font=CP437_FONT)
+            show_message(device, "placeholder", fill="white", font=CP437_FONT)
             text(draw, (0,0), "Timer is over", fill="white", font=CP437_FONT)
             time.sleep(120)
         else:
